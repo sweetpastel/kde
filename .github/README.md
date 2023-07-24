@@ -1,21 +1,21 @@
 
-# KDE (WIP)
-A modified version [Colloid KDE](https://github.com/vinceliuice/Colloid-kde) with **SweetPastel** colors
+# kde (wip)
+a modified version [Colloid KDE](https://github.com/vinceliuice/Colloid-kde) with **sweetpastel** colors
 
-## Installation
+## installation
 
-1. Download or Clone the repository and go to the repository's directory
+1. download or Clone the repository and go to the repository's directory
 
 ```sh
 git clone https://github.com/SweetPastel/KDE && cd KDE
 ```
 
-2. Run the ``install.sh`` script
+2. run the ``install.sh`` script
 
 ```sh
 ./install.sh
 ```
 
-## Acknowledgements
+## acknowledgements
 
-- Thanks to [vinceliuice](https://github.com/vinceliuice) - For making the **Colliod KDE** and for her awesome themes
+- thanks to [vinceliuice](https://github.com/vinceliuice) - for making the **Colliod KDE** and for her awesome themes
