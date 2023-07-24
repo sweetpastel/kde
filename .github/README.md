@@ -7,7 +7,7 @@ a modified version [Colloid KDE](https://github.com/vinceliuice/Colloid-kde) wit
 1. download or Clone the repository and go to the repository's directory
 
 ```sh
-git clone https://github.com/SweetPastel/KDE && cd KDE
+git clone https://github.com/sweetpastel/kde && cd kde
 ```
 
 2. run the ``install.sh`` script
